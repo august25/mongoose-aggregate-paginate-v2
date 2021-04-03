@@ -35,9 +35,6 @@
 		"url": "https://github.com/aravindnc/mongoose-aggregate-paginate-v2/issues"
 	},
 	"homepage": "https://github.com/aravindnc/mongoose-aggregate-paginate-v2#readme",
-	"dependencies": {
-		"hash": "^0.2.1"
-	},
 	"devDependencies": {
 		"babel-cli": "^6.26.0",
 		"babel-preset-es2015": "^6.24.1",
@@ -48,5 +45,8 @@
 	},
 	"engines": {
 		"node": ">=4.0.0"
+	},
+	"dependencies": {
+		"object-hash": "^2.1.1"
 	}
 }
